@@ -1,0 +1,38 @@
+{
+  "name": "PanduanMengajar",
+  "short_name": "PanduanMengajar",
+  "start_url": "https://www.panduanmengajar.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog berisi panduan cara mengajar siswa, mendidik anak, aplikasi pendidikan, model pembelajaran, media, dan info seputar dunia pendidikan dan sekolah.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s48/logo-panduan-mengajar.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s72/logo-panduan-mengajar.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s96/logo-panduan-mengajar.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s144/logo-panduan-mengajar.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s168/logo-panduan-mengajar.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s192/logo-panduan-mengajar.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fg4XkqATbNQ/XVFmbq_6edI/AAAAAAAAD40/jNzl4dAVNW0vI8dG-hIeyQlda0dbMCaUwCLcBGAs/s512/logo-panduan-mengajar.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
