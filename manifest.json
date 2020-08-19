@@ -4,34 +4,34 @@
   "start_url": "https://www.panduanmengajar.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#F78118",
-  "description": "Blog berisi panduan cara mengajar siswa, mendidik anak, aplikasi pendidikan, model pembelajaran, media, dan info seputar dunia pendidikan dan sekolah.",
+  "theme_color": "#3B5998",
+  "description": "Blog tentang pendidikan, pembelajaran, ppg, dan hari besar nasional",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s48/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s48/logo-pm.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s72/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s72/logo-pm.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s96/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s96/logo-pm.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s144/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s144/logo-pm.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s168/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s168/logo-pm.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s192/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s192/logo-pm.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-_HQpSiDW7Kw/XVl1GhRrF3I/AAAAAAAAD6E/i-UE_0TfOt0hSPBYNdvKN2mnx-heJ2GaQCLcBGAs/s512/logo-panduan-mengajar.png",
+    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s512/logo-pm.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
