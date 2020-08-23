@@ -4,34 +4,34 @@
   "start_url": "https://www.panduanmengajar.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#3B5998",
-  "description": "Blog tentang pendidikan, pembelajaran, ppg, dan hari besar nasional",
+  "theme_color": "#C51162",
+  "description": "Informasi dan Inspirasi Mengajar.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s48/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s48/icon-pm.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s72/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s72/icon-pm.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s96/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s96/icon-pm.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s144/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s144/icon-pm.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s168/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s168/icon-pm.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s192/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s192/icon-pm.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-nU9G9ltofLE/Xz0l4zIhBPI/AAAAAAAAEnM/XZVjGTDKF3UygMtF8ToVgHZ5hHu3ammgACLcBGAsYHQ/s512/logo-pm.png",
+    "src": "https://1.bp.blogspot.com/-ZAh1sDE62uU/X0INBLUMKkI/AAAAAAAAEqo/ftqFCYUK9I8Gmbu_ep-S_X_oXaWz6KcnQCLcBGAsYHQ/s512/icon-pm.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
